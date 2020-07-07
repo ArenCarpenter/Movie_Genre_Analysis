@@ -46,10 +46,6 @@ For online students, there will be five deliverables for this project (Note: On-
 
 Note: On-campus students may have different requirements, please speak with your instructor.
 
-### Jupyter Notebook Must-Haves
-
-For this project, your Jupyter Notebook should meet the following specifications:
-
 #### Organization/Code Cleanliness
 
 * The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  
