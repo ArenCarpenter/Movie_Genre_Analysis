@@ -61,4 +61,14 @@ Due to our concatenated datasets, we needed to reset the indexes and delete appr
 
 ## Visualizations and Insights
 
+![](Images/Revenue_x_Time.png)
+
+![](Images/Budget_x_Revenue.png)
+
+![](Images/Budget_x_Revenue_jointplot.png)
+
+![](Images/Rating_Dist.png)
+
 ![](Images/Rev_x_Rating.png)
+
+
