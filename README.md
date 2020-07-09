@@ -11,6 +11,7 @@ In order to consult Microsoft in their endeavor to break into the movie business
 
 2) What profits can be expected (revenue - budget)? 
 
+
 Some caveats: how to increase the odds that your movie will be successful? 
 
 3) How do user ratings (x out of 10) affect the earning potential of your movie?
@@ -39,8 +40,8 @@ Some caveats: how to increase the odds that your movie will be successful?
 
 ### Slide Deck
 
-- Link : put link here
-- In Repo : put file name here
+- Link : https://docs.google.com/presentation/d/1tMjre-J1QTPLXF2Mo4Nts5N8BN6wqDG72K3n6s3pZBY/edit#slide=id.g8b4db0f1a7_0_65
+- In Repo : presentation.pdf
 
 
 ## Methods
@@ -97,12 +98,24 @@ Let's see how these ratings relate to a movie's gross revenue. We can see that m
 ![](Images/Rev_x_Rating.png)
 
 
+### Genres and Revenue:
+
+We see that Dramas are the most prolific genre throughout the history of film with more than 10,000 entries out of our 18,000 movies sampled. Comedy is second with about 1/3 of movies using this tag. This should not be unexpected as drama and comedies are over-arching genres, that is other genres can be easily paired with these, i.e. Romantic Comedies or Historical Dramas. However, tastes change, so let's look at what genres have been on the rise and those who are falling from popularity. 
+
+![](Images/Overall_Genre_Distribution.png)
+
+Because movies can have multiple genre tags, our legend shows "Has [Genre]" and that selection includes all movies that contain that tag. These are the four fastest growing genres defined by the slope of their popularity over time. We would predict that movies utilizing one or more of these genres could capitalize on the current state of the film industry and have the greatest return on investment and please audiences. 
+
+![](Images/Top4_Genre_Income.png)
+
+
 ## Key Insights and Recommendations
 
 While movies with a larger budget are more likely to earn more revenue, that budget should be allocated to ensure that a movie is highly rated. On average, only movies that earned an 8.5 user rating or greater earned more than 200 million dollars.
 
-Stuff here
+Achieving a high user rating is important for earning high revenue and having long-term success. One way to please audiences is to create a film that utilizes popular genres. We identified Animation, Adventure, Musical, and Fantasy as the fastest growing genres. No wonder Pixar Studios and Disney have been two of the highest grossing studios. For example, Disney's "Tangled" and Pixar's "Coco" are tagged as all four of those genres and have been very successful and well rated by audiences.  
 
+We recommend not making a Drama. While Drama has historically been the most numerous genre, with 10,000 entries of our 18,000 movies sampled, it is one of the four fastest declining genres according to revenue. In general, Dramas do not easily lend themselves to becoming summer blockbusters, though they can have greater staying power than other genres.
 
 
 ## Future Directions
