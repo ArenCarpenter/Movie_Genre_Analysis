@@ -40,7 +40,7 @@ Some caveats: how to increase the odds that your movie will be successful?
 
 ### Slide Deck
 
-- Link : https://docs.google.com/presentation/d/1tMjre-J1QTPLXF2Mo4Nts5N8BN6wqDG72K3n6s3pZBY/edit#slide=id.g8b4db0f1a7_0_65
+- Link : https://docs.google.com/presentation/d/1tMjre-J1QTPLXF2Mo4Nts5N8BN6wqDG72K3n6s3pZBY/
 - In Repo : presentation.pdf
 
 
