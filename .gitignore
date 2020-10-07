@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-zippedData/
-.DS_Store
-.ipynb_checkpoints
-=======
-zippedData/
-.DS_Store
-.ipynb_checkpoints
 
->>>>>>> ff9caaed778d5343cb234fb7ee36a834b5c98f6b
+zippedData/
+.DS_Store
+.ipynb_checkpoints/
